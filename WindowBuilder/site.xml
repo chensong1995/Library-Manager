@@ -1,0 +1,45 @@
+<site>
+  <description>WindowBuilder Pro Eclipse is a tool for creation of RCP, SWT, and Swing UI's in Eclipse.</description>
+  <category-def name="SWT Designer" label="SWT Designer" />
+  <category-def name="Swing Designer" label="Swing Designer" />
+  <category-def name="WindowBuilder Engine (Required)" label="WindowBuilder Engine (Required)" />
+  <feature url="features/org.eclipse.wb.core.feature_1.8.0.r45x201506110820.jar" id="org.eclipse.wb.core.feature" version="1.8.0.r45x201506110820">
+    <category name="WindowBuilder Engine (Required)" />
+  </feature>
+  <feature url="features/org.eclipse.wb.core.java.feature_1.8.0.r45x201506110821.jar" id="org.eclipse.wb.core.java.feature" version="1.8.0.r45x201506110821">
+    <category name="WindowBuilder Engine (Required)" />
+  </feature>
+  <feature url="features/org.eclipse.wb.core.ui.feature_1.8.0.r45x201506110822.jar" id="org.eclipse.wb.core.ui.feature" version="1.8.0.r45x201506110822">
+    <category name="WindowBuilder Engine (Required)" />
+  </feature>
+  <feature url="features/org.eclipse.wb.core.xml.feature_1.8.0.r45x201506110823.jar" id="org.eclipse.wb.core.xml.feature" version="1.8.0.r45x201506110823">
+    <category name="WindowBuilder Engine (Required)" />
+  </feature>
+  <feature url="features/org.eclipse.wb.doc.user.feature_1.8.0.r45x201506110838.jar" id="org.eclipse.wb.doc.user.feature" version="1.8.0.r45x201506110838">
+    <category name="WindowBuilder Engine (Required)" />
+  </feature>
+  <feature url="features/org.eclipse.wb.layout.group.feature_1.8.0.r45x201506110824.jar" id="org.eclipse.wb.layout.group.feature" version="1.8.0.r45x201506110824">
+    <category name="WindowBuilder Engine (Required)" />
+  </feature>
+  <feature url="features/org.eclipse.wb.rcp.SWT_AWT_support_1.8.0.r45x201506110828.jar" id="org.eclipse.wb.rcp.SWT_AWT_support" version="1.8.0.r45x201506110828">
+    <category name="SWT Designer" />
+  </feature>
+  <feature url="features/org.eclipse.wb.rcp.doc.user.feature_1.8.0.r45x201506110839.jar" id="org.eclipse.wb.rcp.doc.user.feature" version="1.8.0.r45x201506110839">
+    <category name="SWT Designer" />
+  </feature>
+  <feature url="features/org.eclipse.wb.rcp.feature_1.8.0.r45x201506110827.jar" id="org.eclipse.wb.rcp.feature" version="1.8.0.r45x201506110827">
+    <category name="SWT Designer" />
+  </feature>
+  <feature url="features/org.eclipse.wb.swing.doc.user.feature_1.8.0.r45x201506110839.jar" id="org.eclipse.wb.swing.doc.user.feature" version="1.8.0.r45x201506110839">
+    <category name="Swing Designer" />
+  </feature>
+  <feature url="features/org.eclipse.wb.swing.feature_1.8.0.r45x201506110826.jar" id="org.eclipse.wb.swing.feature" version="1.8.0.r45x201506110826">
+    <category name="Swing Designer" />
+  </feature>
+  <feature url="features/org.eclipse.wb.swt.feature_1.8.0.r45x201506110825.jar" id="org.eclipse.wb.swt.feature" version="1.8.0.r45x201506110825">
+    <category name="SWT Designer" />
+  </feature>
+  <feature url="features/org.eclipse.wb.xwt.feature_1.8.0.r45x201506110829.jar" id="org.eclipse.wb.xwt.feature" version="1.8.0.r45x201506110829">
+    <category name="SWT Designer" />
+  </feature>
+</site>
